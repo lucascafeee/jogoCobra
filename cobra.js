@@ -1,19 +1,3 @@
-// Jogo da Cobra (Snake Game)
-// Autor: Jan Bodnar
-// Adaptado por: Gilson Pereira
-// Código fonte original: http://zetcode.com/javascript/snake/
-
-
-// Declaração de variáveis e constantes
-
-//  features=
-//1 botei som no game
-//2 não menos importante, mas botei um prompt para saber qual o nome do player que está jogando.
-//3 obstaculos foram instalados no game, que, quando colide a cobra e o obstaculo você perde.
-//4 Quando o jogo acaba, a musica pausa tambem 
-//5 toda vez que a cobra come uma maçã, voce ganha 100 pontos
-// 6 coloquei um script para iniciar o game quando você quiser
-
 var obstaculo;
 var obsX = [];
 var obsY = [];
